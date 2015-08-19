@@ -6,6 +6,9 @@
   "description": "A simple helpful robot for your Company",
   "dependencies": {
     "hubot": "^2.15.0",
+    "hubot-appearin": "^1.0.2",
+    "hubot-bro": "^0.1.1",
+    "hubot-darts": "^1.0.1",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.5",
     "hubot-google-translate": "^0.2.0",
@@ -18,8 +21,6 @@
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.2",
     "hubot-shipit": "^0.2.0",
-    "hubot-appearin": "^1.0.2",
-    "hubot-bro": "^0.1.1",
     "moment": "^2.10.0",
     "underscore": "^1.8.3"
   },
